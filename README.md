@@ -12,7 +12,7 @@ Welcome to the Google Search Voice Animation project by Pratyush Developers Team
 
 3. **Responsive Design**: The project is designed to be responsive, ensuring a seamless experience across various devices.
 
-4. **Integration with Google Search API**: Utilizes the Google Search API to fetch relevant data and synchronize animations with search results.
+4. **Can use in yourr websie**: User can copy this loading screen to use in his website
 
 ## Getting Started
 
@@ -37,10 +37,8 @@ This project relies on the following technologies:
 
 - HTML
 - CSS
-- JavaScript
-- Google Search API
 
-Make sure to have an internet connection for the best experience, as the project fetches real-time data from Google.
+You dosent want to have internet to seeing this loaing animation, but you will get bored so, You can use this loaing screen animation to your website loading screen
 
 ## Contribution Guidelines
 
@@ -50,8 +48,10 @@ We welcome contributions from the community to make this project even more amazi
 
 This project is licensed under the Apatch 2.0 License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgments
+Give credit to any external libraries, tools, or resources used in the project.
+
 ## Contact
 
-For any inquiries or support, reach out to Pratyush at pratyush@example.com.
-
-Happy searching with voice animations! 🚀
+For any inquiries or support, reach out to Pratyush at pratyush0898@gmail.com
+You can use this loading animations to your website also! 🚀
